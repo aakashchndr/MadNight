@@ -10,12 +10,19 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "MadNight",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MadNight-color-theme.json"
-            }
-        ]
-    }
+        "themes": [{
+            "label": "MadNight",
+            "uiTheme": "vs-dark",
+            "path": "./themes/MadNight-color-theme.json"
+        }]
+    },
+    "keywords": [
+        "madnight theme",
+        "midnight theme",
+        "dark theme",
+        "purple",
+        "blue",
+        "violet",
+        "themes"
+    ]
 }
