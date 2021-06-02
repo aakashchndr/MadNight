@@ -1,8 +1,9 @@
 {
     "name": "madnight",
     "displayName": "MadNight",
+    "publisher": "aakashchndr",
     "description": "Moody for the mad lad",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -15,6 +16,10 @@
             "uiTheme": "vs-dark",
             "path": "./themes/MadNight-color-theme.json"
         }]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aakashchndr/MadNight"
     },
     "keywords": [
         "madnight theme",
