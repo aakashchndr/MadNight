@@ -1,6 +1,7 @@
 {
     "name": "madnight",
     "displayName": "MadNight",
+    "icon": "images/logo.png",
     "publisher": "aakashchndr",
     "description": "Moody for the mad lad",
     "version": "1.0.1",

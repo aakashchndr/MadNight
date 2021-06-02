@@ -18,4 +18,7 @@
 - [Instagram](https://instagram.com/aakashcndr)
 - [Github](https://github.com/aakashchndr)
 
+Logo Credit - [Bhagyashri Sharma
+](https://unsplash.com/@thebhagyashri)
+
 **Enjoy!**
