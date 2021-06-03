@@ -4,7 +4,7 @@
     "icon": "images/logo.png",
     "publisher": "aakashchndr",
     "description": "Moody for the mad lad",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.56.0"
     },
